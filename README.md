@@ -1,8 +1,9 @@
-# drop-box-clone
-## Projeto que implemento o JavaScript de um clone que implementa as principais funcionalidades do Drop Box
+# DropBox Clone
 
-Esse projeto foi feito junto a um curso online, o html foi fornecido como material do curso, escrevi apenas o
-javascript pois ele é o foco do curso.
+<p>
+  Projeto desenvolvido junto ao curso JavaScript Completo da Hcode Treinamentos na Udemy.com, onde desenvolvemos um clone do DropBox com as principais funcionalidades do original, como envio e leitura de arquivos e a manipulação dos arquivos já enviados.
+  Inicialmente esse prejeto armazenava os arquivos em um servidor Node.js e todas as rotas ainda estão definidas no projeto, porém, ao final do curso o armazenamento do arquivos foi migrado para o firebase storage
+</p>
 
-Inicialmente esse prejeto armazenava os arquivos no servidor Node.js e todas as rotas já estão definidas nele, 
-porém, o armazenamento de arquivos foi mudado para o firebase storage
+- Este projeto visa colocar em prática os conhecimentos em JavaScript obtivos no curso.
+- Dessa forma, o html e css vieram prontos junto ao material do curso, escrevi somente o javascript
